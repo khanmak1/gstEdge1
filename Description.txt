@@ -1,0 +1,1 @@
+Some validations are still required can be done on the input tag through javascript.
